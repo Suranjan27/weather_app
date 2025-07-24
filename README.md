@@ -1,30 +1,45 @@
-# OpenWeatherApp
+# 🌤️ OpenWeatherApp
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+An elegant and responsive weather application that displays real-time weather data for any location around the globe.  
+Simple UI, smooth performance, and accurate data — all in one place.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/bulai27sengupta-7744s-projects/v0-open-weather-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/wXgOu6ewXhQ)
+[![Live Site](https://img.shields.io/badge/View%20Live-Climate9.netlify.app-brightgreen?style=for-the-badge)](https://climate9.netlify.app)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🌎 Features
 
-## Deployment
+- 🌦️ Real-time weather updates
+- 🧭 Search by city or location
+- 📍 Auto-detect location using geolocation
+- 🌡️ Displays temperature, humidity, wind speed, pressure, and weather condition
+- 💡 Light & clean UI with responsive design for all devices
 
-Your project is live at:
+---
 
-**[https://vercel.com/bulai27sengupta-7744s-projects/v0-open-weather-app](https://vercel.com/bulai27sengupta-7744s-projects/v0-open-weather-app)**
+## 🧰 Tech Stack
 
-## Build your app
+- **Frontend:** HTML, CSS, JavaScript (React or Vanilla JS based on your build)  
+- **API:** OpenWeatherMap API  
+- **Hosting:** Vercel & Netlify  
 
-Continue building your app on:
+---
 
-**[https://v0.dev/chat/projects/wXgOu6ewXhQ](https://v0.dev/chat/projects/wXgOu6ewXhQ)**
+## 🚀 Live Preview
 
-## How It Works
+🔗 **[Climate9.netlify.app](https://climate9.netlify.app)** – Visit the live app
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 📁 Folder Structure
+
+```bash
+📦 OpenWeatherApp
+ ┣ 📁 public
+ ┣ 📁 src
+ ┃ ┣ 📁 components
+ ┃ ┗ 📄 App.js
+ ┣ 📄 index.html
+ ┣ 📄 style.css
+ ┣ 📄 README.md
+ ┗ 📄 package.json
